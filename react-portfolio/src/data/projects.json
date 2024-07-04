@@ -1,0 +1,36 @@
+[
+    {
+      "title": "Library Management System",
+      "imageSrc": "projects/projects.jpeg",
+      "description": "This is a library management system for administration, handling all frontend and backend tasks.",
+      "skills": ["HTML", "CSS", "JS","PHP"],
+      "demo": "https://www.linkedin.com/posts/ransika-heshanee-7a223823b_webdevelopment-teamwork-techskills-activity-7173566282670231553-HBBK?utm_source=share&utm_medium=member_desktop",
+      "source": "https://github.com/pathumsameera12/library-management-system.git"
+    },
+    {
+      "title": "CV Builder",
+      "imageSrc": "projects/projects.jpeg",
+      "description": "This is a resume builder web app that utilizes front-end technologies to enable users to easily design and generate professional resumes.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://ransikah.github.io/CV_builder/",
+      "source": "https://github.com/RansikaH/CV_builder.git"
+    },
+    {
+      "title": "Text Editor",
+      "imageSrc": "projects/projects.jpeg",
+      "description": "This is a basic text editor utilizing front-end technologies.",
+      "skills": ["HTML", "CSS", "JavaScript","Boostrap"],
+      "demo": "https://ransikah.github.io/Text_Editor/",
+      "source": "https://github.com/RansikaH/Text_Editor.git"
+    },
+    {
+      "title": "Internship Finder",
+      "imageSrc": "projects/projects.jpeg",
+      "description": "This project is made to learn Django by building an web application.",
+      "skills": ["Django", "SQL", "HML","CSS"],
+      "demo": "",
+      "source": "https://github.com/pathumsameera12/internship-finder.git"
+    }
+
+  ]
+  
